@@ -1,0 +1,19 @@
+* { /* Universal - rarely used */
+    color: white;
+}
+
+h1 { /* Elements */
+    font-family: 'Arvo', serif;
+}
+
+.section-title { /* Classes */
+    color: darkgreen;
+}
+
+#product-overview { /* IDs */
+    background: darkred;
+}
+
+[disabled] { /* Attributes */
+    color: gray;
+}

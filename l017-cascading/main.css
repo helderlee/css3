@@ -1,0 +1,13 @@
+h1 { /* Elements */
+    color: white;
+    font-family: 'Arvo', serif;
+}
+
+.section-title { /* Classes */
+    color: darkgreen;
+}
+
+#product-overview { /* IDs */
+    background: darkred;
+}
+

@@ -1,0 +1,18 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 { /* Elements */
+    color: white;
+    font-family: 'Arvo', serif;
+}
+
+.section-title { /* Classes */
+    color: darkgreen;
+    font-family: inherit; /* Inherit font-family Montserrat */
+}
+
+#product-overview { /* IDs */
+    background: darkred;
+}
+

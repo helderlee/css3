@@ -1,0 +1,19 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section-title { /* Classes */
+    color: darkgreen;
+}
+
+#product-overview { /* IDs */
+    color: white;
+    background: darkred;
+}
+
+#product-overview h1 { /* Combinators */
+    font-family: 'Arvo', serif;
+}
+h1 {
+    font-family: sans-serif;
+}
